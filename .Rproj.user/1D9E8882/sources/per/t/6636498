@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1537242683856.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4254105286",
+    "id" : "6636498",
+    "lastKnownWriteTime" : 1537258894,
+    "last_content_update" : 1537258894719,
+    "path" : "~/Documents/personal/Fab/paper/paper/01-intro.Rmd",
+    "project_path" : "paper/01-intro.Rmd",
+    "properties" : {
+        "cursorPosition" : "8,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 10,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1537240211159.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3004668220",
+    "id" : "E64F884",
+    "lastKnownWriteTime" : 1537240282,
+    "last_content_update" : 1537240282582,
+    "path" : "~/Documents/personal/Fab/paper/paper/_build.sh",
+    "project_path" : "paper/_build.sh",
+    "properties" : {
+        "cursorPosition" : "4,43",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "sh"
+}
